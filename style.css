@@ -28,6 +28,17 @@ body {
   font-size: 60px;
   margin-top: 10px;
 }
+.fa-twitter {
+  color: #00acee;
+}
+
+.fa-youtube {
+  color: #c4302b;
+}
+
+.fa-facebook {
+  color: #3b5998;
+}
 
 @media (max-width: 580px) {
   body {
